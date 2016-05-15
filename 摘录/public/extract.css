@@ -16,3 +16,15 @@ dl.extract dd{
 	padding:10px 0 30px 0;
 }
 dl.extract dd p{text-indent: 32px;margin:8px 0;}
+
+
+dl.note{
+	margin:20px auto;
+	width: 86%;
+	background-color: #f3f3f3;
+	padding:10px;
+	border-radius: 10px;
+	border:1px solid #ccc;
+}
+
+dl.note  p{text-indent: 32px;margin:8px 0;}
